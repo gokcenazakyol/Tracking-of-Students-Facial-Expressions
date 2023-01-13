@@ -20,5 +20,5 @@ make the education more efficient. In this context, YOLO, an object detection me
 within the scope of the project. The YOLO model
 was specially trained with a data set consisting
 of separate classes (such as sad, happy, sleepy).
-Within the scope of the results obtained, the applied model can detect the mood of the student.
+Within the scope of the results obtained, the applied model can detect the mood of the student.
 
