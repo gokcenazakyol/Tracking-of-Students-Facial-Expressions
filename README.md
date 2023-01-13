@@ -22,3 +22,5 @@ was specially trained with a data set consisting
 of separate classes (such as sad, happy, sleepy).
 Within the scope of the results obtained, the applied model can detect the mood of the student.
 
+
+### by Arda Altunkaya and Gökçenaz Akyol
